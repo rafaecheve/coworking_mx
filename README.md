@@ -1,5 +1,7 @@
 # Cultura Coworking en México
 
+Apostamos por los nuevos espacios y al crecimiento del movimiento a nivel nacional - [@LuisRojasMX](https://twitter.com/LuisRojasMX)
+
 ##Recursos 
  - [Presentaciones Coworking Spain Conference 2015](http://coworkingspain.es/magazine/noticias/presentaciones-coworking-spain-conference-2015)
 
