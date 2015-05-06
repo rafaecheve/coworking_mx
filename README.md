@@ -15,6 +15,9 @@
 
 
 
-###Articulos
+##Articulos
  - [5 espacios de trabajo para desarrollar tu empresa](http://www.forbes.com.mx/5-espacios-de-trabajo-para-desarrollar-tu-empresa/)
  - [#CoworkingVisaMX la oportunidad de trabajar en cualquier lugar](http://www.lateoriadelbit.com/coworkingvisamx-la-oportunidad-de-trabajar-en-cualquier-lugar/)
+
+##Comunidad
+ - [@LuisRojasMX](https://twitter.com/LuisRojasMX)
