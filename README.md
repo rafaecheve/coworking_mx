@@ -2,8 +2,7 @@
 
 ##Recursos 
  - [Presentaciones Coworking Spain Conference 2015](http://coworkingspain.es/magazine/noticias/presentaciones-coworking-spain-conference-2015)
- - []()
- 
+
 ##Videos
 
 ##Coworkings 
