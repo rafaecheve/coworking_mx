@@ -19,6 +19,7 @@ Apostamos por los nuevos espacios y al crecimiento del movimiento a nivel nacion
 ##Articulos
  - [5 espacios de trabajo para desarrollar tu empresa](http://www.forbes.com.mx/5-espacios-de-trabajo-para-desarrollar-tu-empresa/)
  - [#CoworkingVisaMX la oportunidad de trabajar en cualquier lugar](http://www.lateoriadelbit.com/coworkingvisamx-la-oportunidad-de-trabajar-en-cualquier-lugar/)
+ - [¿Qué es el coworking y qué ventajas tiene para los freelancers?](http://www.merca20.com/que-es-el-coworking-y-ventajas-tiene-para-los-freelancers/?pgnc=1)
 
 ##Comunidad
  - [@LuisRojasMX](https://twitter.com/LuisRojasMX)
