@@ -9,6 +9,7 @@ Apostamos por los nuevos espacios y al crecimiento del movimiento a nivel nacion
 
 ##Coworkings 
  - [Coworking Monterrey](http://coworkingmty.com)
+ - [Hubud Bali](http://www.hubud.org)
  
 
 ##Sitios
